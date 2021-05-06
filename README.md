@@ -8,7 +8,7 @@
 Comecei essa paixão no ensino médio onde tive contato com PHP, javascript, html e css, mas posteriormente eu fiz um curso onde conheci o React, e foi ali que eu realmente me apaixonei por esse mundo.
 
 -   🌱 Sempre buscando novos jeitos de se fazer algo.
--   👯 Buscando me aprofundar mais e mais em desenvolvimento web.
+-   👯 Buscando me aprofundar mais e mais na stack javascript.
 -   📫 Como falar comigo: [Envia um Oi para o meu WhatsApp (24) 992213941](tel:24992213941)
 -   ❤️ Amo ver o mundo sendo construido por linhas de códigos!
 
