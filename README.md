@@ -7,10 +7,10 @@
 
 Comecei essa paixão no ensino médio onde tive contato com PHP, javascript, html e css, mas posteriormente eu fiz um curso onde conheci o React, e foi ali que eu realmente me apaixonei por esse mundo.
 
--   🌱 Atualmente refinando conhecimento para me tornar um profissional em "T".
--   👯 Buscando ser mais ativo nas comunidades! Talks, commits, ideias... só me chamar!
--   📫 Como falar comigo: [Envia um Oi para o meu WhatsApp (24) 98822-1570](tel:24988221570)
--   ❤️ Minha paixão é ajudar pessoas a conquistarem seus sonhos no mundo tech.
+-   🌱 Sempre buscando novos jeitos de se fazer algo.
+-   👯 Buscando me aprofundar mais e mais em desenvolvimento web.
+-   📫 Como falar comigo: [Envia um Oi para o meu WhatsApp (24) 992213941](tel:24992213941)
+-   ❤️ Amo ver o mundo sendo construido por linhas de códigos!
 
 
 ---
