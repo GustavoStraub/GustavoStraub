@@ -9,7 +9,6 @@ I started this passion in high school where I had contact with PHP, javascript, 
 
 -   🌱 Always looking for new ways to do something.
 -   👯 Seeking to go deeper and deeper into the javascript stack.
--   📫 Telephone: [Say hi! (24) 992213941](tel:24992213941)
 -   ❤️ I love to see the world being built by lines of code!
 
 
